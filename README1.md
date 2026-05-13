@@ -49,6 +49,9 @@ python main.py
 # 4.3. Генератор задач
 python run_tasks.py
 
+# 4.4. Проверка безопасности
+python test_security.py
+
 ## 5. Структура проекта
 
 main.py — Точка входа и глобальная конфигурация.
